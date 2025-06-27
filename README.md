@@ -60,6 +60,9 @@ To evaluate how different shipping methods affect:
 3. Interact with filters and visualizations
 
 ---
+![Screenshot 2025-06-28 013658](https://github.com/user-attachments/assets/977cc528-8ce9-40dd-bb14-ccd126abcd54)
+![Screenshot 2025-06-28 013724](https://github.com/user-attachments/assets/29af85a5-f6ed-43ff-a7ce-e57cc559b9b3)
+![image](https://github.com/user-attachments/assets/116683c8-9e09-4a29-9454-da65167ae589)
 
 ## ✍️ Author
 

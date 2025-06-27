@@ -49,7 +49,7 @@ To evaluate how different shipping methods affect:
 ## 📁 Files
 
 - `SuperStoreSalesProject.pbix` — Power BI dashboard file'
-- `Super Store 22.csv` — Cleaned dataset
+- `superstore 22.csv` — Cleaned dataset
 
 ---
 

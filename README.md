@@ -48,7 +48,8 @@ To evaluate how different shipping methods affect:
 
 ## 📁 Files
 
-- `Shipping_Analysis.pbix` — Power BI dashboard file
+- `SuperStoreSalesProject.pbix` — Power BI dashboard file'
+- `orders_data.csv` — Cleaned dataset
 
 ---
 
